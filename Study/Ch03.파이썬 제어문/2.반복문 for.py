@@ -11,7 +11,7 @@ for i in range(5):      # 0부터 4까지
 for j in range(10, 20):   # 10 ~ 19 까지
     print('반복 j :,', j)
 
-for k in range(10, 0, -1):   #
+for k in range(10, 0, -1):   # 10 에서 1 까지 반복
     print('반복 k :', k)
 
 # 1부터 10까지 합
