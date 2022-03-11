@@ -14,3 +14,9 @@ for i in range(n+1, (n*2)+1):
 
 print(len(ls))
 
+# def sosu(n):
+#     cnt = 0
+#     for j in range(2, n):
+#         if n % j == 0:
+#            cnt += 1
+#            break
